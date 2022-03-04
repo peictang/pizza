@@ -2,8 +2,3 @@ flour
 salt 
 water
 olive oil
-
-garlic
-onions
-peppers
-tomatoes
